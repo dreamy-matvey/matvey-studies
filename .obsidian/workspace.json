@@ -117,19 +117,6 @@
             }
           },
           {
-            "id": "275fdd15b0067beb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
             "id": "4eeba5e294e71412",
             "type": "leaf",
             "state": {
@@ -145,20 +132,6 @@
             }
           },
           {
-            "id": "2fa1b5958284c78a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
             "id": "eb6570cbb24df553",
             "type": "leaf",
             "state": {
@@ -169,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -190,8 +163,11 @@
   },
   "active": "aad8f6fbcb58f005",
   "lastOpenFiles": [
-    "Математика",
     "Математика/Тема по математиен.md",
+    "Excalidraw/рисунок.excalidraw.md",
+    "Excalidraw",
+    "Untitled",
+    "Математика",
     "README.md"
   ]
 }
