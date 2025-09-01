@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "43f337c56735f53b",
+        "id": "b2106654331994bc",
         "type": "tabs",
         "children": [
           {
-            "id": "aad8f6fbcb58f005",
+            "id": "87d4759ee3c3b41a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Математика/Тема по математиен.md",
+                "file": "Биология/Темы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Тема по математиен"
+              "title": "Темы"
+            }
+          },
+          {
+            "id": "73655948700ed0c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Биология/Царство Грибы.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Царство Грибы"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +89,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -158,16 +183,35 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "aad8f6fbcb58f005",
+  "active": "73655948700ed0c4",
   "lastOpenFiles": [
-    "Математика/Тема по математиен.md",
-    "Excalidraw/рисунок.excalidraw.md",
+    "Биология/Темы.md",
+    "Литератера/Темы.md",
+    "Геометрия/Темы.md",
+    "Информатика/Темы.md",
+    "География/Темы.md",
+    "Биология/Царство Грибы.md",
+    "Биология/Список уроков 7 класс",
+    "Математика (Алгебра)/Математика (Алгебра).md",
+    "Excalidraw/Drawing 2025-09-01 21.58.58.excalidraw.md",
+    "География/Список уроков за 7 класс",
+    "Англиский/Список",
+    "2025-09-01.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 1.canvas",
     "Excalidraw",
-    "Untitled",
-    "Математика",
+    "Физика",
+    "Геометрия",
+    "Англиский",
+    "Обществознание",
+    "Литератера",
+    "Русс.md",
+    "Excalidraw/рисунок.excalidraw.md",
     "README.md"
   ]
 }
