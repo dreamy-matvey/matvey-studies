@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b2106654331994bc",
+        "id": "1e2c6e1b4dc77f02",
         "type": "tabs",
         "children": [
           {
-            "id": "87d4759ee3c3b41a",
+            "id": "9f25eba1db60340a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Биология/Темы.md",
+                "file": "История/Классы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Темы"
-            }
-          },
-          {
-            "id": "73655948700ed0c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Биология/Царство Грибы.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Царство Грибы"
+              "title": "Классы"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +82,30 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "1664b7ce1da04a88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обществознание/Темы.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Темы"
             }
           }
         ]
@@ -183,20 +182,28 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "3d-graph:3D Graph": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73655948700ed0c4",
+  "active": "9f25eba1db60340a",
   "lastOpenFiles": [
+    "История/История.md",
+    "История/Классы.md",
+    "История/Темы.md",
+    "Математика/Математика.md",
+    "Математика/Темы.md",
+    "Физика/Темы.md",
+    "Англиский/Темы.md",
+    "Англиский/Список/Список.md",
+    "Обществознание/Темы.md",
     "Биология/Темы.md",
-    "Литератера/Темы.md",
-    "Геометрия/Темы.md",
     "Информатика/Темы.md",
+    "Геометрия/Темы.md",
+    "Литератера/Темы.md",
     "География/Темы.md",
     "Биология/Царство Грибы.md",
+    "DIU",
     "Биология/Список уроков 7 класс",
-    "Математика (Алгебра)/Математика (Алгебра).md",
     "Excalidraw/Drawing 2025-09-01 21.58.58.excalidraw.md",
     "География/Список уроков за 7 класс",
     "Англиский/Список",
@@ -209,7 +216,6 @@
     "Геометрия",
     "Англиский",
     "Обществознание",
-    "Литератера",
     "Русс.md",
     "Excalidraw/рисунок.excalidraw.md",
     "README.md"
